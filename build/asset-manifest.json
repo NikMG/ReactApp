@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f7e5dda.chunk.css",
+    "main.js": "/static/js/main.be38504b.chunk.js",
+    "main.js.map": "/static/js/main.be38504b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c5632b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c5632b9.js.map",
+    "static/js/2.bd2c3fdf.chunk.js": "/static/js/2.bd2c3fdf.chunk.js",
+    "static/js/2.bd2c3fdf.chunk.js.map": "/static/js/2.bd2c3fdf.chunk.js.map",
+    "static/js/3.a96053d4.chunk.js": "/static/js/3.a96053d4.chunk.js",
+    "static/js/3.a96053d4.chunk.js.map": "/static/js/3.a96053d4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7f7e5dda.chunk.css.map": "/static/css/main.7f7e5dda.chunk.css.map",
+    "static/js/2.bd2c3fdf.chunk.js.LICENSE.txt": "/static/js/2.bd2c3fdf.chunk.js.LICENSE.txt",
+    "static/media/headphones.054e2115.png": "/static/media/headphones.054e2115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c5632b9.js",
+    "static/js/2.bd2c3fdf.chunk.js",
+    "static/css/main.7f7e5dda.chunk.css",
+    "static/js/main.be38504b.chunk.js"
+  ]
+}
